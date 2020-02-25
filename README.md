@@ -1,5 +1,6 @@
 # Inventory CRUD REST Service using ASP.NET CORE with JWT Token Authentication 
-This repository contains the inventory management REST service, built with ASP.NET Core 3.1 and Entity Framework 3.1 to illustrate creating REST API to performing CRUD actions and, how to create JWT token and secure API.
+This repository contains the inventory management REST service, built with ASP.NET Core 3.1 and Entity Framework 3.1 to illustrate creating REST API to performing CRUD actions and, how to create JWT token and secure API.  
+[Blog Tutorial](https://www.syncfusion.com/blogs/post/how-to-build-crud-rest-apis-with-asp-net-core-3-1-and-entity-framework-core-create-jwt-tokens-and-secure-apis.aspx)
 
 ## Prerequisites
 
